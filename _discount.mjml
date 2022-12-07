@@ -1,0 +1,35 @@
+<mj-section>
+    <mj-column>
+        <mj-spacer height="40px" />
+        <mj-text
+            mj-class="fs30 bold white center"
+            padding="10px"
+            line-height="50px"
+        >Special Weekend Discount</mj-text>
+        <mj-text
+            mj-class="fs18 gray center"
+            padding="10px"
+            line-height="32px"
+        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</mj-text>
+        <mj-text
+            mj-class="fs23 bold yellow center"
+            padding="0 10px 10px"
+            line-height="30px"
+        >Starting 45$</mj-text>
+        <mj-button
+            mj-class="fs16 black bg_yellow"
+            padding="10px"
+            inner-padding="10px 20px"
+            line-height="24px"
+            text-transform="uppercase"
+        >
+            BOOK NOW!
+        </mj-button>
+        <mj-spacer height="35px" />
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/yellow_car.png" 
+            alt="Yellow car image"
+            padding="0 10px" />
+        <mj-spacer height="60px" />
+    </mj-column>
+</mj-section>

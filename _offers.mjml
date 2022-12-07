@@ -1,0 +1,61 @@
+<mj-section padding="20px">
+    <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text
+            mj-class="fs16 white"
+            padding="20px 10px 0"
+            line-height="15px"
+        >
+            Discount Benefits
+        </mj-text>
+        <mj-text
+            mj-class="fs26 white"
+            padding="10px"
+            line-height="39px"
+        >
+            Special Business Offers
+        </mj-text>
+        <mj-text
+            padding="10px 10px 15px"
+            font-size="20px"
+            line-height="20px"
+        >
+            <a href="#" style="color: #fed70d">Book Now</a>
+        </mj-text>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/front_car.jpg" 
+            alt="car side image"
+            padding="0 15px" />
+        <mj-spacer height="18px" />
+    </mj-column>
+
+    <mj-column>
+        <mj-spacer height="10px" />
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/back_car.jpg" 
+            alt="car side image"
+            padding="0 15px" />
+        <mj-text
+            mj-class="fs16 white"
+            padding="20px 10px 0"
+            line-height="15px"
+        >
+            Explore Destinations
+        </mj-text>
+        <mj-text
+            mj-class="fs26 white"
+            padding="10px"
+            line-height="39px"
+        >
+            Where Are You Going For Holidays 
+        </mj-text>
+        <mj-text
+            padding="10px 10px 15px"
+            font-size="20px"
+            line-height="20px"
+        >
+            <a href="#" style="color: #fed70d">Book Now</a>
+        </mj-text>
+        <mj-spacer height="15px" />
+    </mj-column>
+</mj-section>

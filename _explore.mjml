@@ -1,0 +1,28 @@
+<mj-section>
+    <mj-column width="35%" vertical-align="middle">
+        <mj-text
+            mj-class="bold white"
+            padding="10px"
+            font-size="45px"
+            line-height="60px"
+        >Explore Now </mj-text>
+    </mj-column>
+    <mj-column width="65%" vertical-align="middle">
+        <mj-text
+            mj-class="fs18 gray"
+            padding="10px"
+            line-height="30px"
+        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-spacer height="20px" />
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/video_1.jpg" 
+            alt="Video"
+            href="#" />
+        <mj-spacer height="40px" />
+    </mj-column>
+</mj-section>

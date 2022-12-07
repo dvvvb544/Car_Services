@@ -1,0 +1,40 @@
+
+<mj-section padding-top="10px">
+    <mj-column vertical-align="middle">
+        <mj-image 
+        src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/LOGO_labor_1.png" 
+        alt="logo image"
+        width="60px" 
+        padding="10px 0"  />
+    </mj-column>
+    <mj-column vertical-align="middle">
+        <mj-navbar>
+            <mj-navbar-link
+                href="#" 
+                mj-class="white fs16" 
+                padding="5px 0 5px 25px" 
+                line-height="20px"
+                text-transform="capitalize"
+            >Locations</mj-navbar-link>
+            <mj-navbar-link
+                href="#" 
+                mj-class="white fs16" 
+                padding="5px 0 5px 25px" 
+                line-height="20px"
+                text-transform="capitalize"
+            >Vehicles</mj-navbar-link>
+            <mj-navbar-link
+                href="#" 
+                mj-class="white fs16" 
+                padding="5px 0 5px 25px" 
+                line-height="20px"
+                text-transform="capitalize"
+            >Services</mj-navbar-link>
+        </mj-navbar>
+    </mj-column>
+</mj-section>
+<mj-section>
+    <mj-column>
+        <mj-spacer height="25px" />
+    </mj-column>
+</mj-section>

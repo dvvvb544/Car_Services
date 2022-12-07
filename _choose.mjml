@@ -1,0 +1,97 @@
+<mj-section>
+    <mj-column>
+        <mj-spacer height="40px" />
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-text
+            mj-class="fs30 bold white center"
+            padding="10px"
+            line-height="45px"
+        >Why Choose Us</mj-text>
+        <mj-text
+            mj-class="fs18 gray center"
+            padding="10px"
+            line-height="32px" 
+        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-spacer height="35px" />
+    </mj-column>
+</mj-section>
+
+<mj-section padding="5px 0 5px">
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/insurance.png" 
+            alt="icon image"
+            padding="5px"
+            width="32px" />
+        <mj-text
+            mj-class="bold white center"
+            font-size="19px"
+            line-height="40px"
+        >
+            Insurance
+        </mj-text>
+        <mj-text
+            mj-class="fs14 gray center"
+            line-height="28px"
+        >
+            Lorem ipsum dolor sit amet, consectetuer adipisci.
+        </mj-text>
+    </mj-column>
+
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/Engine.png" 
+            alt="icon image"
+            padding="5px"
+            width="32px" />
+        <mj-text
+            mj-class="bold white center"
+            font-size="19px"
+            line-height="40px"
+        >
+            Well Maintain
+        </mj-text>
+        <mj-text
+            mj-class="fs14 gray center"
+            line-height="28px"
+        >
+            Lorem ipsum dolor sit amet, consectetuer adipisci.
+        </mj-text>
+    </mj-column>
+
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7481/service.png" 
+            alt="icon image"
+            padding="5px"
+            width="32px" />
+        <mj-text
+            mj-class="bold white center"
+            font-size="19px"
+            line-height="40px"
+        >
+            Customer Service
+        </mj-text>
+        <mj-text
+            mj-class="fs14 gray center"
+            line-height="28px"
+        >
+            Lorem ipsum dolor sit amet, consectetuer adipisci.
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-spacer height="40px" />
+    </mj-column>
+</mj-section>
